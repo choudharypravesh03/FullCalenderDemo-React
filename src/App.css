@@ -1,4 +1,8 @@
-.App {
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:100);    
+
+.body {
+  font-family: Roboto;
   text-align: center;
 }
 
